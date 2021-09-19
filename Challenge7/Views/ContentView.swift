@@ -31,7 +31,7 @@ struct ContentView: View {
                             Text(r.name)
                         }
                     })
-            }.navigationBarTitle("All Pizzas")
+            }.navigationBarTitle("Pizzas")
         }
     }
 }
